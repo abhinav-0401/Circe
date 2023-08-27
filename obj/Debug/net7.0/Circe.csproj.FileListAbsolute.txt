@@ -1,0 +1,14 @@
+E:\cs\systemsproj\Circe\bin\Debug\net7.0\Circe.exe
+E:\cs\systemsproj\Circe\bin\Debug\net7.0\Circe.deps.json
+E:\cs\systemsproj\Circe\bin\Debug\net7.0\Circe.runtimeconfig.json
+E:\cs\systemsproj\Circe\bin\Debug\net7.0\Circe.dll
+E:\cs\systemsproj\Circe\bin\Debug\net7.0\Circe.pdb
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\Circe.GeneratedMSBuildEditorConfig.editorconfig
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\Circe.AssemblyInfoInputs.cache
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\Circe.AssemblyInfo.cs
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\Circe.csproj.CoreCompileInputs.cache
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\Circe.dll
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\refint\Circe.dll
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\Circe.pdb
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\Circe.genruntimeconfig.cache
+E:\cs\systemsproj\Circe\obj\Debug\net7.0\ref\Circe.dll

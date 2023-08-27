@@ -1,0 +1,9 @@
+let x: int = 10;
+const PI: double = 3.14;
+
+// this procedure returns the sum of two numbers
+const add = proc(a: int, y: int): int {
+    return a + b;
+    // alternatively, just write a + b
+    // the value of the last expression of a block is returned as the value of the whole block
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4OkQJItVq+zmmIY74fCKqrX6x+Mph1qxB5LF1B5LduBpvzId1eeTOWzWttmyDDGArqN4PwXxL4dA5SP0RQoBnw==",
+  "dgSpecHash": "9+Wdwv7ZQ2SLM6Bh4FFMrrO9E2WSw0Y6StZOlz6jzcNSqmBP0WPvhjiA2ZyE//AQ9N1BKh8Cv0lWSTtJocgWsg==",
   "success": true,
-  "projectFilePath": "E:\\cs\\systemsproj\\Circe\\Circe.csproj",
+  "projectFilePath": "E:\\cs\\systemsproj\\circe\\Circe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

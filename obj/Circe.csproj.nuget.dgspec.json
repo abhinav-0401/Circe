@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\cs\\systemsproj\\Circe\\Circe.csproj": {}
+    "E:\\cs\\systemsproj\\circe\\Circe.csproj": {}
   },
   "projects": {
-    "E:\\cs\\systemsproj\\Circe\\Circe.csproj": {
+    "E:\\cs\\systemsproj\\circe\\Circe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cs\\systemsproj\\Circe\\Circe.csproj",
+        "projectUniqueName": "E:\\cs\\systemsproj\\circe\\Circe.csproj",
         "projectName": "Circe",
-        "projectPath": "E:\\cs\\systemsproj\\Circe\\Circe.csproj",
+        "projectPath": "E:\\cs\\systemsproj\\circe\\Circe.csproj",
         "packagesPath": "C:\\Users\\ABHINAV\\.nuget\\packages\\",
-        "outputPath": "E:\\cs\\systemsproj\\Circe\\obj\\",
+        "outputPath": "E:\\cs\\systemsproj\\circe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABHINAV\\AppData\\Roaming\\NuGet\\NuGet.Config"
