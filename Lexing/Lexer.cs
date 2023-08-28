@@ -13,7 +13,7 @@ class Lexer
         _index = 0;
     }
 
-    public void Lex()
+    public List<Token> Lex()
     {
         Console.WriteLine("the lexer is now up and running...");
         List<Token> tokens = new();
@@ -21,6 +21,7 @@ class Lexer
         {
             tokens.Add(Tokenise());
         }
+        return tokens;
     }
 
     private Token Tokenise()
@@ -33,8 +34,8 @@ class Lexer
             '*' => new Token(TokenType.Star, currentChar.ToString()),
             '/' => new Token(TokenType.Divide, currentChar.ToString()),
             ':' => new Token(TokenType.Colon, currentChar.ToString()),
-            '=' => new Token(TokenType.Equal, currentChar.ToString()),
             ';' => new Token(TokenType.Semicolon, currentChar.ToString()),
+            '=' => new Token(TokenType.Equal, currentChar.ToString()),
             _ => new Token(TokenType.Illegal, currentChar.ToString()),
         };
         _index++;

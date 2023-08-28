@@ -9,6 +9,13 @@ class Program
         Console.WriteLine("harry, yer a greek witch now!");
         const string testSource = "+-*/==";
         Lexer lexer = new Lexer(testSource);
-        lexer.Lex();
+        var tokens = lexer.Lex();
+
+        int i = 0;
+        foreach (var token in tokens)
+        {
+            Console.WriteLine("token index {0} is {1} of type {2}", i, token.Literal, token.Type);
+            ++i;
+        }
     }
 }
